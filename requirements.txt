@@ -1,0 +1,9 @@
+# requirements.txt
+flask
+requests
+beautifulsoup4
+pandas
+tensorflow
+numpy
+scikit-learn
+gunicorn
