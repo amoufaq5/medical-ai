@@ -20,5 +20,5 @@ This project provides an AI-based diagnostic system that:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/medical-ai.git
+   git clone https://github.com/amoufaq5/medical-ai.git
    cd medical-ai
