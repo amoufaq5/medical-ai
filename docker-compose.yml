@@ -1,0 +1,10 @@
+# docker-compose.yml
+version: "3.8"
+services:
+  medical_api:
+    build: .
+    container_name: medical_api
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+    restart: always
